@@ -2,7 +2,7 @@
 
 ### License
 
-If you are going to use this bot in your server, please credit me in some way (including my github profile, discord, etc). Also this is made for private use only and you are not allowed to publish a version of the bot for other servers to use. There is already a published version [here]() if you want.
+If you are going to use this bot in your server, please credit me in some way (including my github profile, discord, etc). Also this is made for private use only and you are not allowed to publish a version of the bot for other servers to use. There is already a published version [here](https://discord.com/oauth2/authorize?client_id=861628537885687839&scope=bot&permissions=1275391175) if you want.
 
 ### Introduction
 This is a discord bot I made a long time ago and I wanted to make it open source because my other bot [bread](https://github.com/hackermondev/bread) got a lot of traffic and I wanted to see if people would like this bot.
