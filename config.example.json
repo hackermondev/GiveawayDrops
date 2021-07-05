@@ -1,0 +1,41 @@
+{
+  "NAME": "Giveaway Drops",
+  "DEFAULT_PREFIX": "+",
+  "DISCORD_STATUS": [
+    {
+      "type": "PLAYING",
+      "text": "with new giveaway features."
+    },
+    {
+      "type": "WATCHING",
+      "text": "new features"
+    },
+    {
+      "type": "WATCHING",
+      "text": "the developers."
+    }
+  ],
+  "TOKENS": {
+    "DEV": "",
+    "PRODUCTION": ""
+  },
+  "COLORS": {
+    "success": "#50c878",
+    "error": "#ff3333",
+    "idle": "#ffff00"
+  },
+  "DATABASE": {
+    "production": "",
+    "development": ""
+  },
+  "DEFAULT_GIVEAWAY_SETTINGS": {
+    "emoji": "🎉"
+  },
+  "OWNERS": [
+    ""
+  ],
+  "API": {
+    "PASTEBIN": ""
+  },
+  "STATCORD": ""
+}
